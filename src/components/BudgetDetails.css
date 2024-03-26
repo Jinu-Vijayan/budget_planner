@@ -1,0 +1,8 @@
+#budget_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
